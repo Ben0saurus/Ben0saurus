@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ben0saurus
+- 👀 I’m interested in Programming with Java
+- 🌱 I’m currently learning Paper Plugin Development
+- 📫 How to reach me: @benosaurus9 on Discord
+- 😄 Pronouns: he/him
